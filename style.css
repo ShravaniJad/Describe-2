@@ -1,0 +1,16 @@
+#hey {
+    position: absolute;
+    overflow:hidden;
+    height:800;
+    color:black;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+    opacity:83;
+}
+.profile {
+    width:175;
+    margin-bottom:50px;
+    border-radius:50%;
+}
